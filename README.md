@@ -14,11 +14,17 @@ A modular pipeline for virtual drug screening using machine learning and reinfor
 - ⚙️ **Scalable Design**: Runs efficiently on standard consumer hardware.
 
 ## 📂 Project Structure
+
 ├── data/ # Input and output molecular data
+
 ├── models/ # Saved models and training scripts
+
 ├── rl_generator/ # Reinforcement learning agent
+
 ├── utils/ # Helper scripts and descriptors
+
 ├── main_pipeline.py # Main pipeline script
+
 └── README.md
 
 
